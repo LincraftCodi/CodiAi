@@ -1,0 +1,8 @@
+Pillow==12.3.0
+beautifulsoup4==4.15.0
+pywebview==6.2.1
+youtube-transcript-api==1.2.4
+ddgs==9.16.0
+
+vosk==0.3.45
+sounddevice==0.5.6

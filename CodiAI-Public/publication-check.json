@@ -1,0 +1,25 @@
+{
+  "archive": "CodiAI-0.8.7-GitHub.zip",
+  "files": 78,
+  "bytes": 4381084,
+  "sha256": "766700107054097da9c323e562571113098b938e8e94c466b41a3d0adb2a9f71",
+  "tests": "149 passed",
+  "powershell_syntax": "passed",
+  "python_syntax": "passed",
+  "secret_and_personal_marker_scan": "no findings",
+  "archive_integrity": "passed",
+  "excluded": [
+    "data",
+    "runtime",
+    "configs",
+    "docs",
+    "examples",
+    "chat history",
+    "memory",
+    "browser profiles",
+    "logs",
+    "API settings",
+    "model weights"
+  ],
+  "note": "Automated checks and an explicit file allowlist reduce disclosure risk; this is a source distribution, not a bundled model."
+}

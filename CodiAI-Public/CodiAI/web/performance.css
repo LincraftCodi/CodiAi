@@ -1,0 +1,2 @@
+/* No custom cursor, endless scroll animations or continuously moving elements. */
+body{cursor:auto}button:disabled{cursor:default}.messages{scroll-behavior:auto}.no-motion .character-wrap img{animation:none}.no-motion .message,.no-motion dialog[open],.no-motion #toast{animation:none}
